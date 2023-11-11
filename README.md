@@ -41,7 +41,7 @@ In addition I offer a decision tree graph for visualization.
      - Maximum Depth = 5
  
 - Numerical Result:
-     - Accuracy: 94.74%
+     - Accuracy = 94.74%
 
 - See visualizations below:
 
@@ -54,7 +54,7 @@ In addition I offer a decision tree graph for visualization.
      - Maximum Depth = 5
  
 - Numerical Result:
-     - Accuracy: 100.0%
+     - Accuracy = 100.0%
 
 - See visualizations below:
 
@@ -67,7 +67,7 @@ In addition I offer a decision tree graph for visualization.
      - Maximum Depth = 3
  
 - Numerical Result:
-     - Accuracy: 76.4%
+     - Accuracy = 76.4%
 
 - See visualizations below:
 
