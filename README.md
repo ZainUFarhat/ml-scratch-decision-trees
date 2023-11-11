@@ -45,7 +45,7 @@ In addition I offer a decision tree graph for visualization.
 
 - See visualizations below:
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/bc/bc_decision_boundary.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/bc/bc_decision_tree.png?raw=true)
 
 **2.** Iris Dataset:
 
@@ -58,7 +58,7 @@ In addition I offer a decision tree graph for visualization.
 
 - See visualizations below:
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/iris/iris_decision_boundary.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/iris/iris_decision_tree.png?raw=true)
 
 **2.** Diabetes Dataset:
 
@@ -71,4 +71,4 @@ In addition I offer a decision tree graph for visualization.
 
 - See visualizations below:
 
-![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/db/db_decision_boundary.png?raw=true)
+![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/db/db_decision_tree.png?raw=true)
