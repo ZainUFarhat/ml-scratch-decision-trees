@@ -43,7 +43,7 @@ In addition I offer a decision tree graph for visualization.
 - Numerical Result:
      - Accuracy = 94.74%
 
-- See visualizations below:
+- See visualization below:
 
 ![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/bc/bc_decision_tree.png?raw=true)
 
@@ -56,7 +56,7 @@ In addition I offer a decision tree graph for visualization.
 - Numerical Result:
      - Accuracy = 100.0%
 
-- See visualizations below:
+- See visualization below:
 
 ![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/iris/iris_decision_tree.png?raw=true)
 
@@ -69,6 +69,6 @@ In addition I offer a decision tree graph for visualization.
 - Numerical Result:
      - Accuracy = 76.4%
 
-- See visualizations below:
+- See visualization below:
 
 ![alt text](https://github.com/ZainUFarhat/ml-scratch-decision-trees/blob/main/plots/db/db_decision_tree.png?raw=true)
